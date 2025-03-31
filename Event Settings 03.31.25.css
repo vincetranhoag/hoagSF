@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: "Arial";
-    url("https://fonts.cdnfonts.com/css/arial");
+    src: url("https://fonts.cdnfonts.com/css/arial");
 }
 
 @font-face {
